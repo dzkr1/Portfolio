@@ -1,0 +1,152 @@
+
+body {
+    margin: 0;
+    
+}
+
+.container {
+    max-width: 1440px;
+    margin: auto;
+    /* background-color: yellow; */
+    height: 100%;
+    padding: 0 16px;
+}
+
+
+header {
+    background-color: white;
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.15);
+    height: 80px;
+}
+
+
+
+header .container {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .logo {
+    /* background-color: red; */
+    display: inline-block;
+    margin-left: 50px;
+}
+
+header .logo a {
+    text-decoration: none;
+    color: black;
+    font-size: 36px;
+}
+
+header nav {
+    /* background-color: aqua; */
+    display: inline-block;
+    
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline-block;
+}
+
+header nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+.container .hero img {
+    object-fit: cover;
+    height: 720px;
+    width: 1440px;
+    /* display: none; */
+}
+
+.container .heroExplain {
+    display: flex;
+
+}
+
+.container .heroExplain #productName {
+    margin: 100px 268px 20px 200px;
+}
+
+.container .heroExplain #catchPhrase {
+    margin: 100px 0 0 0;
+}
+
+.container .heroExplain #period {
+    margin: 0 0 0 0;
+}
+
+.container #photos img{
+    margin-top: 100px;
+    object-fit: cover;
+    height: 720px;
+    width: 1440px;
+}
+
+.container #imageSelectionRow {
+
+    display: flex;
+    align-items: center;
+    justify-content:center;
+   
+}
+
+.container #imageSelectionRow img{
+   
+    max-width: 100px;
+}
+
+.container #exp h2 {
+    margin: 0;
+}
+
+.container #exp p {
+    margin-bottom: 100px;
+}
+
+.container a {
+    text-decoration: none;
+}
+
+.container  a h2{
+   color: black;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   margin-bottom: 50px;
+   
+}
+
+footer {
+    max-width: 1440px;
+    margin: auto;
+    height: 275px;
+    background-color: rgb(248, 248, 248);
+}
+
+footer .socialMedia {
+    display: flex;
+    justify-content: center;
+}
+
+footer .socialMedia img{
+   width: 50px;
+    margin: 50px;
+    
+}
+
+footer h3{
+    display: flex;
+    justify-content: center;
+}
+
