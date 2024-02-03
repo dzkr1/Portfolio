@@ -14,7 +14,7 @@
         <div class="container">
             
             <section class="logo">
-                <a href="index.html">
+                //<a href="index.html">
                 <strong>DZKR</strong>
             </a></section>
                 <nav>
@@ -29,7 +29,7 @@
 
     <div class="container">
         <div class="cobafoto">
-             <a href="work1.html"><img src="." alt="apaya"></a>
+             <a href="work1.html"><img src="Images/Thumbnail/002. Christmas deco.jpg" alt="apaya"></a>
              <a href="work2.html"><img src="Images/Thumbnail/002. Naviel blue.jpg" alt="apaya"></a>
              <a href="work3.html"><img src="Images/Thumbnail/003. Hikari art project.jpg" alt="apaya"></a>
              <a href="work4.html"><img src="Images/Thumbnail/004. 36 days of letters.jpg" alt="apaya"></a>
