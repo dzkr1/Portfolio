@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+index.html
 
 <head>
     <meta charset="UTF-8">
