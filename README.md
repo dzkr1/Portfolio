@@ -7,7 +7,7 @@ index.html
     <title> Portofolio-dzkr</title>
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;700&family=Nunito:wght@400;600&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/indexstyle.css">
+    <link rel="stylesheet" href="[css/indexstyle.css](https://github.com/dzkr1/jiku3.giithub.io/blob/main/css/indexstyle.css)">
 </head>
 
 <body>
