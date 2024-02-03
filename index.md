@@ -14,7 +14,7 @@
         <div class="container">
             
             <section class="logo">
-                
+                <a href="index.html">
                 <strong>DZKR</strong>
             </a></section>
                 <nav>
