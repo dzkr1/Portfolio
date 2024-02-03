@@ -6,7 +6,7 @@
     <title> Portofolio-dzkr</title>
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;700&family=Nunito:wght@400;600&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/indexstyle.css">
 </head>
 
 <body>
@@ -14,7 +14,7 @@
         <div class="container">
             
             <section class="logo">
-                //<a href="index.html">
+                
                 <strong>DZKR</strong>
             </a></section>
                 <nav>
