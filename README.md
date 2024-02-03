@@ -30,7 +30,7 @@ index.html
 
     <div class="container">
         <div class="cobafoto">
-             <a href="work1.html"><img src="Canvas stand.jpg" alt="apaya"></a>
+             <a href="work1.html"><img src="https://github.com/dzkr1/jiku3.giithub.io/blob/main/Images/Thumbnail/001.%20Christmas%20deco.jpg" alt="apaya"></a>
              <a href="work2.html"><img src="Images/Thumbnail/002. Naviel blue.jpg" alt="apaya"></a>
              <a href="work3.html"><img src="Images/Thumbnail/003. Hikari art project.jpg" alt="apaya"></a>
              <a href="work4.html"><img src="Images/Thumbnail/004. 36 days of letters.jpg" alt="apaya"></a>
