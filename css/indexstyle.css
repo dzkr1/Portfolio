@@ -1,10 +1,11 @@
 
 body {
     margin: 0;
-    
+    background-color: black;
 }
 
 .container {
+    background-color: black;
     max-width: 1440px;
     margin: auto;
     /* background-color: yellow; */
@@ -14,7 +15,7 @@ body {
 
 
 header {
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     box-shadow: 0 1px 6px 0 rgba(0,0,0,0.15);
     height: 80px;
 }
@@ -36,27 +37,30 @@ header .logo {
 
 header .logo a {
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 36px;
 }
 
 header nav {
     /* background-color: aqua; */
     display: inline-block;
+    color: white;
     
 }
 
 header nav ul {
     margin: 0;
     padding: 0;
+    color: white;
 }
 
 header nav ul li {
     display: inline-block;
+    color: white;
 }
 
 header nav ul li a{
-    color: black;
+    color: white;
     text-decoration: none;
     font-size: 18px;
     margin-right: 20px;
@@ -64,6 +68,7 @@ header nav ul li a{
 }
 
 .container .cobafoto {
+    margin-top: 100px;
     max-width: 1440px;
     display: block;
     box-sizing: border-box;
@@ -71,10 +76,60 @@ header nav ul li a{
     /* background-color: aqua; */
 }
 
+.container .cobafoto .foto {
+    width: 400px;
+    
+    display: block;
+    box-sizing: border-box;
+    justify-items: center;
+    display: inline-block;
+    margin: 0px 0px 25px 50px;
+    /*background-color: aqua; */
+    
+}
+
+
 .container .cobafoto img {
     /* background-color: rgb(212, 17, 17); */
-    max-width: 400px;
-
-    margin: 25px 25px 25px 50px;
+    width: 400px;
+    filter: grayscale(100%);
+    border-radius: 20px;
+    /*margin: 25px 25px 25px 50px;*/
     display: inline-block;
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.15);
 }
+
+footer {
+    /* 
+     margin: auto;
+     height: 275px;
+     max-width: 1440px;
+     background-color: rgb(248, 248, 248);*/
+     
+    background-color: rgb(0, 0, 0);
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.15);
+    height: 275px;
+    
+   
+ }
+ 
+ footer .socialMedia {
+    color: white;
+     display: flex;
+     justify-content: center;
+ }
+ 
+ footer .socialMedia img{
+    color: white;
+    width: 50px;
+     margin: 50px;
+     
+ }
+ 
+ footer h3{
+    color: white;
+     display: flex;
+     justify-content: center;
+ }
+ 
+ 
